@@ -1,0 +1,11 @@
+.test{
+    background-image: url(../img/flower.jpg);
+    width: 900;
+    height: 900;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center 10px;
+    border-width: 5px;
+    border-color: blueviolet;
+    border-style: dotted;
+}
